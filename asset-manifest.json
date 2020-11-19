@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WhatsForDinner/static/css/main.c0a252a0.chunk.css",
+    "main.js": "/WhatsForDinner/static/js/main.b3022b68.chunk.js",
+    "main.js.map": "/WhatsForDinner/static/js/main.b3022b68.chunk.js.map",
+    "runtime-main.js": "/WhatsForDinner/static/js/runtime-main.b7fe4658.js",
+    "runtime-main.js.map": "/WhatsForDinner/static/js/runtime-main.b7fe4658.js.map",
+    "static/js/2.224214a9.chunk.js": "/WhatsForDinner/static/js/2.224214a9.chunk.js",
+    "static/js/2.224214a9.chunk.js.map": "/WhatsForDinner/static/js/2.224214a9.chunk.js.map",
+    "index.html": "/WhatsForDinner/index.html",
+    "precache-manifest.66e160672a850ae470883f4a6a7474c8.js": "/WhatsForDinner/precache-manifest.66e160672a850ae470883f4a6a7474c8.js",
+    "service-worker.js": "/WhatsForDinner/service-worker.js",
+    "static/css/main.c0a252a0.chunk.css.map": "/WhatsForDinner/static/css/main.c0a252a0.chunk.css.map",
+    "static/js/2.224214a9.chunk.js.LICENSE.txt": "/WhatsForDinner/static/js/2.224214a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fe4658.js",
+    "static/js/2.224214a9.chunk.js",
+    "static/css/main.c0a252a0.chunk.css",
+    "static/js/main.b3022b68.chunk.js"
+  ]
+}
